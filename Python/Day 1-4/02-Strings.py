@@ -1,0 +1,6 @@
+print("hello world")
+print('test for single quotes')
+print("test for double qoutes")
+print('''test for tripple quotes''')
+print("what's up?")
+print("what's up        ?")
